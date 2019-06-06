@@ -155,7 +155,7 @@
 		</Item>
 		<Item Name="cRIO_IPAddress.txt" Type="Document" URL="../cRIO_IPAddress.txt"/>
 		<Item Name="Host__Main.vi" Type="VI" URL="../Host/Host__Main.vi"/>
-		<Item Name="Host__MainNew.vi" Type="VI" URL="../Host/Host__MainNew.vi"/>
+		<Item Name="Host__MainNewS.vi" Type="VI" URL="../Host/Host__MainNewS.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="LVRowAndColumnTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRowAndColumnTypeDef.ctl"/>
